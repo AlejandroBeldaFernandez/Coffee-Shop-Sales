@@ -372,7 +372,7 @@ ORDER BY
 
 
 -- ============================================================
--- Q8. Which products generate 80% of total revenue? (Pareto rule)
+-- Q8. Which products generate 80% of total revenue? 
 -- ============================================================
 WITH total_revenue AS (
     SELECT SUM(css.transaction_qty * css.unit_price) AS total
