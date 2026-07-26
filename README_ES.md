@@ -52,20 +52,20 @@ El dataset original requirio las siguientes transformaciones en PostgreSQL:
 
 ## Preguntas de Negocio Respondidas
 
-| # | Pregunta | Nivel |
-|---|---|---|
-| Q1 | Cual es el revenue total por ubicacion? | Facil |
-| Q2 | Cuantas transacciones se realizaron por mes? | Facil |
-| Q3 | Cual es el producto mas vendido por unidades? | Facil |
-| Q4 | Cuales son las 5 categorias con mayor revenue? | Facil |
-| Q5 | Cual es el ticket medio por transaccion? | Facil |
-| Q6 | Cual es el revenue por dia de la semana? | Medio |
-| Q7 | Que franja horaria tiene mas transacciones? | Medio |
-| Q8 | Que productos generan el 80% del revenue? (Pareto) | Medio |
-| Q9 | Como ha evolucionado el revenue mensual por ubicacion? | Medio |
-| Q10 | Cual es el producto mas vendido en cada ubicacion? | Medio |
-| Q11 | Cual es el producto menos vendido por unidades? | Facil |
-| Q12 | Que franja horaria tiene mas transacciones por ubicacion? | Medio |
+| # | Pregunta |
+|---|---|
+| Q1 | Cual es el revenue total por ubicacion? |
+| Q2 | Cuantas transacciones se realizaron por mes? |
+| Q3 | Cual es el producto mas vendido por unidades? |
+| Q4 | Cuales son las 5 categorias con mayor revenue? |
+| Q5 | Cual es el ticket medio por transaccion? |
+| Q6 | Cual es el revenue por dia de la semana? |
+| Q7 | Que franja horaria tiene mas transacciones? |
+| Q8 | Que productos generan el 80% del revenue?  |
+| Q9 | Como ha evolucionado el revenue mensual por ubicacion? |
+| Q10 | Cual es el producto mas vendido en cada ubicacion? |
+| Q11 | Cual es el producto menos vendido por unidades? |
+| Q12 | Que franja horaria tiene mas transacciones por ubicacion? |
 
 ---
 
