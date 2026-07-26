@@ -52,20 +52,20 @@ The raw dataset required the following transformations in PostgreSQL:
 
 ## Business Questions Answered
 
-| # | Question | Level |
-|---|---|---|
-| Q1 | What is the total revenue by location? | Easy |
-| Q2 | How many transactions were made per month? | Easy |
-| Q3 | Which product is sold most often by number of units? | Easy |
-| Q4 | Which are the top 5 product categories by revenue? | Easy |
-| Q5 | What is the average ticket per transaction? | Easy |
-| Q6 | What is the revenue by day of the week? | Mid |
-| Q7 | Which time of day has the most transactions? | Mid |
-| Q8 | Which products generate 80% of total revenue? (Pareto) | Mid |
-| Q9 | How has monthly revenue evolved per location? | Mid |
-| Q10 | Which is the best-selling product at each location? | Mid |
-| Q11 | Which is the least sold product by number of units? | Easy |
-| Q12 | Which time of day has the most transactions per location? | Mid |
+| # | Question |
+|---|---|
+| Q1 | What is the total revenue by location? |
+| Q2 | How many transactions were made per month? | 
+| Q3 | Which product is sold most often by number of units? | 
+| Q4 | Which are the top 5 product categories by revenue? |
+| Q5 | What is the average ticket per transaction? |
+| Q6 | What is the revenue by day of the week? |
+| Q7 | Which time of day has the most transactions? |
+| Q8 | Which products generate 80% of total revenue? |
+| Q9 | How has monthly revenue evolved per location? |
+| Q10 | Which is the best-selling product at each location? |
+| Q11 | Which is the least sold product by number of units? |
+| Q12 | Which time of day has the most transactions per location? |
 
 ---
 
