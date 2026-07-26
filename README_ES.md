@@ -132,3 +132,9 @@ El dataset original requirio las siguientes transformaciones en PostgreSQL:
 - Combina SQL, visualizacion y storytelling, las tres competencias clave de un perfil de data analyst
 - El codigo SQL esta documentado y es reutilizable para datasets similares
 - La presentacion en Google Slides demuestra capacidad de comunicar hallazgos a perfiles no tecnicos
+
+---
+
+## Video del Proyecto
+
+[![Coffee Shop Sales — Video del Proyecto](https://img.youtube.com/vi/S72EymqK9dc/0.jpg)](https://youtu.be/S72EymqK9dc)

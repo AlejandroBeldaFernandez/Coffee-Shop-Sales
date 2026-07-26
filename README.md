@@ -132,3 +132,9 @@ The raw dataset required the following transformations in PostgreSQL:
 - Combines SQL, visualization and storytelling — the three core competencies of a data analyst profile
 - The SQL code is documented and reusable for similar datasets
 - The Google Slides presentation demonstrates the ability to communicate findings to non-technical audiences
+
+---
+
+## Video Walkthrough
+
+[![Coffee Shop Sales — Video Walkthrough](https://img.youtube.com/vi/S72EymqK9dc/0.jpg)](https://youtu.be/S72EymqK9dc)
