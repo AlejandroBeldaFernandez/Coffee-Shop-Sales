@@ -92,8 +92,8 @@ The raw dataset required the following transformations in PostgreSQL:
 
 ## Report and Presentation
 
-- [Google Sheets Report](https://github.com/AlejandroBeldaFernandez/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Report.ods)
-- [Google Slides Presentation](https://github.com/AlejandroBeldaFernandez/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Slides.odp)
+- [Google Sheets Report](https://docs.google.com/spreadsheets/d/1W2Ymm32uv6lSEWj0O0o7zkh4Oi4On7DM7OHcs4_ywWc/edit?usp=sharing)
+- [Google Slides Presentation](https://docs.google.com/presentation/d/1ELpaUJOFnoP_i7sV1CcAc2Yf_czP2mTgajzw8D95ut0/edit?usp=sharing)
 
 ---
 
@@ -107,7 +107,28 @@ The raw dataset required the following transformations in PostgreSQL:
 
 ---
 
-## Author
+## Possible Improvements
 
-**Alejandro Belda Fernández**
-[GitHub](https://github.com/AlejandroBeldaFernandez)
+- Incorporate cost data to calculate profit margin by product and location
+- Extend the analysis to a full year to detect real seasonality patterns
+- Set up automatic alerts in Metabase when daily revenue drops below a defined threshold
+- Segment the analysis by customer type if the dataset allowed it
+- Automate dashboard updates with real-time data
+
+---
+
+## Use Cases
+
+- A coffee shop owner can use this analysis to decide which products to promote or remove from the catalogue
+- An operations manager can optimize staff shifts based on peak transaction hours
+- A marketing team can design campaigns targeting the weakest months such as January and February
+- Any food and beverage business with sales data can replicate this same analysis workflow
+
+---
+
+## Project Value
+
+- Demonstrates a complete data analyst workflow: from data loading and cleaning to communicating results
+- Combines SQL, visualization and storytelling — the three core competencies of a data analyst profile
+- The SQL code is documented and reusable for similar datasets
+- The Google Slides presentation demonstrates the ability to communicate findings to non-technical audiences

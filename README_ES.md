@@ -92,8 +92,8 @@ El dataset original requirio las siguientes transformaciones en PostgreSQL:
 
 ## Reporte y Presentacion
 
-- [Reporte en Google Sheets](https://github.com/AlejandroBeldaFernandez/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Report.ods)
-- [Presentacion en Google Slides](https://github.com/AlejandroBeldaFernandez/Coffee-Shop-Sales/blob/main/Coffee%20Shop%20Sales%20Slides.odp)
+- [Reporte en Google Sheets](https://docs.google.com/spreadsheets/d/1W2Ymm32uv6lSEWj0O0o7zkh4Oi4On7DM7OHcs4_ywWc/edit?usp=sharing)
+- [Presentacion en Google Slides](https://docs.google.com/presentation/d/1ELpaUJOFnoP_i7sV1CcAc2Yf_czP2mTgajzw8D95ut0/edit?usp=sharing)
 
 ---
 
@@ -107,7 +107,28 @@ El dataset original requirio las siguientes transformaciones en PostgreSQL:
 
 ---
 
-## Autor
+## Posibles Mejoras
 
-**Alejandro Belda Fernandez**
-[GitHub](https://github.com/AlejandroBeldaFernandez)
+- Incorporar datos de costes para calcular el margen de beneficio por producto y ubicacion
+- Ampliar el analisis a un año completo para detectar estacionalidad real
+- Crear alertas automaticas en Metabase cuando el revenue diario caiga por debajo de un umbral definido
+- Segmentar el analisis por tipo de cliente si el dataset lo permitiera
+- Automatizar la actualizacion del dashboard con datos en tiempo real
+
+---
+
+## Uso para Personas o Empresas
+
+- Un propietario de cafeteria puede usar este analisis para decidir que productos potenciar o retirar del catalogo
+- Un responsable de operaciones puede optimizar los turnos de personal segun las franjas horarias de mayor actividad
+- Un equipo de marketing puede diseñar campañas en los meses de menor revenue como enero y febrero
+- Cualquier negocio de restauracion con datos de ventas puede replicar este mismo flujo de analisis
+
+---
+
+## Valor del Proyecto
+
+- Demuestra un flujo de trabajo completo de data analyst: desde la carga y limpieza de datos hasta la comunicacion de resultados
+- Combina SQL, visualizacion y storytelling, las tres competencias clave de un perfil de data analyst
+- El codigo SQL esta documentado y es reutilizable para datasets similares
+- La presentacion en Google Slides demuestra capacidad de comunicar hallazgos a perfiles no tecnicos
